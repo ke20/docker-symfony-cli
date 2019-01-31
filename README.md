@@ -1,6 +1,10 @@
+[![Build Status](https://travis-ci.org/ke20/docker-symfony-cli.svg?branch=master)](https://travis-ci.org/ke20/docker-symfony-cli)
+
 # symfony-cli
 
 A lightweight image with symfony-cli
+
+## How to use
 
 Add in your shell rc file the code below :
 ```shell
